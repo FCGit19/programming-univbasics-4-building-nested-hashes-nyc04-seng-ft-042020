@@ -3,7 +3,7 @@ def base_hash
 end
 
 def monopoly_with_second_tier
- if !hash_object[:railroads][{}]
+ if hash_object[:railroads][{}]
    hash_object[:pieces] = 4
    hash_object[:rent_in_dollars] = {}
    hash_object[:names] = {}
