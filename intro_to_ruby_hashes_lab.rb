@@ -1,11 +1,11 @@
 def base_hash
-  {:railroads => {}}
+  hash_object = {:railroads => {}}
 end
 
 def monopoly_with_second_tier
-  {:railroads => {}}
-  if !{}[:railroads]
-    {}[:pieces] => 4
+  # {:railroads => {}}
+  # if !{}[:railroads]
+  #   {}[:pieces] => 4
 end
 
 def monopoly_with_third_tier
