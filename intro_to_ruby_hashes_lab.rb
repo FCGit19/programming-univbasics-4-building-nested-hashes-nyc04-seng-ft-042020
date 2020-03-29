@@ -4,9 +4,9 @@ end
 
 def monopoly_with_second_tier
   if {:railroads => {}}
-   hash_object[:pieces] = 4
-   hash_object[:rent_in_dollars] = {}
-   hash_object[:names] = {}
+   hash_object[:pieces] => 4
+   hash_object[:rent_in_dollars] => {}
+   hash_object[:names] => {}
  end 
 end
 
