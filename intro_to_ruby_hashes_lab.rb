@@ -4,9 +4,9 @@ end
 
 def monopoly_with_second_tier
   if {:railroads => {}}
-   {:railroads => {}}[:pieces] => 4
-   {:railroads => {}}[:rent_in_dollars] => {}
-   {:railroads => {}}[:names] => {}
+   {:railroads => {}}[:pieces] = 4
+   {:railroads => {}}[:rent_in_dollars] = {}
+   {:railroads => {}}[:names] = {}
  end 
 end
 
