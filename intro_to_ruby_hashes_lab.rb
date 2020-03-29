@@ -1,10 +1,9 @@
 def base_hash
-  hash_object = {:railroads => {}}
+  {:railroads => {}}
 end
 
 def monopoly_with_second_tier
-  hash_object = {:railroads => {}}
- if hash_object[:railroads][{}]
+  if {:railroads => {}}
    hash_object[:pieces] = 4
    hash_object[:rent_in_dollars] = {}
    hash_object[:names] = {}
