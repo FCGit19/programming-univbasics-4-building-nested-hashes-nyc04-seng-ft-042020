@@ -3,9 +3,9 @@ def base_hash
 end
 
 def monopoly_with_second_tier
-  {:railroads => {}}
+  s => {}}
   if !{}[:railroads]
-    {}[:pieces] => 4
+    {}[:pieces{:railroad] => 4
 end
 
 def monopoly_with_third_tier
